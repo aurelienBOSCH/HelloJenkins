@@ -1,3 +1,3 @@
 # HelloJenkins
 test de Jenkins
-please fonctionne 2
+please fonctionne dès que je push
